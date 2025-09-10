@@ -63,6 +63,8 @@ Mini Seller Console is a comprehensive lead management application designed for 
 
 ## 🎮 Demo
 
+🌐 **Live Demo**: [https://marcusplech.github.io/mini-seller-console/](https://marcusplech.github.io/mini-seller-console/)
+
 The application includes sample data with 10 pre-loaded leads from various sources:
 - Website inquiries
 - LinkedIn connections
