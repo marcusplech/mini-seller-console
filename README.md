@@ -82,8 +82,8 @@ The application includes sample data with 10 pre-loaded leads from various sourc
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd newproject
+   git clone https://github.com/marcusplech/mini-seller-console.git
+   cd mini-seller-console
    ```
 
 2. **Install dependencies**
@@ -98,7 +98,7 @@ The application includes sample data with 10 pre-loaded leads from various sourc
 
 4. **Open your browser**
    ```
-   Navigate to http://localhost:5173/
+   Navigate to http://localhost:3000/
    ```
 
 ### Available Scripts
@@ -114,7 +114,7 @@ The application includes sample data with 10 pre-loaded leads from various sourc
 
 ### Getting Started
 
-1. **Launch the Application**: Open http://localhost:5173/ in your browser
+1. **Launch the Application**: Open http://localhost:3000/ in your browser
 2. **Explore Sample Data**: The app loads with 10 sample leads automatically
 3. **Search and Filter**: Use the search bar and status filter to find specific leads
 4. **View Lead Details**: Click on any lead to open the detailed panel
