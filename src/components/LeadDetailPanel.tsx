@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import { XMarkIcon, PencilIcon, CheckIcon, XMarkIcon as CancelIcon } from '@heroicons/react/24/outline'
 import { Lead, Opportunity, ApiResponse } from '../types'
 
 interface LeadDetailPanelProps {

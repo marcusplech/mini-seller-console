@@ -1,5 +1,4 @@
 import React from 'react'
-import { ChevronDownIcon, MagnifyingGlassIcon } from '@heroicons/react/24/outline'
 import { Lead, StatusFilter, SortBy } from '../types'
 import { useEffect } from 'react'
 

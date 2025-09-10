@@ -145,7 +145,7 @@ function App() {
                 sortBy={sortBy}
                 onSortChange={setSortBy}
                 onLeadSelect={handleLeadSelect}
-                selectedLeadId={selectedLead?.id}
+                selectedLeadId={selectedLead?.id.toString() || null}
               />
             </div>
           </div>
