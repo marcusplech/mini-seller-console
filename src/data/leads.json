@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "company": "TechCorp Inc",
+    "email": "john.smith@techcorp.com",
+    "source": "Website",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Johnson",
+    "company": "DataSoft Solutions",
+    "email": "sarah.j@datasoft.com",
+    "source": "Referral",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": 3,
+    "name": "Mike Chen",
+    "company": "CloudTech Ltd",
+    "email": "m.chen@cloudtech.com",
+    "source": "LinkedIn",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "company": "StartupXYZ",
+    "email": "emily@startupxyz.com",
+    "source": "Cold Call",
+    "score": 65,
+    "status": "new"
+  },
+  {
+    "id": 5,
+    "name": "Robert Wilson",
+    "company": "Enterprise Corp",
+    "email": "r.wilson@enterprise.com",
+    "source": "Trade Show",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": 6,
+    "name": "Lisa Anderson",
+    "company": "InnovateTech",
+    "email": "lisa.anderson@innovate.com",
+    "source": "Website",
+    "score": 73,
+    "status": "contacted"
+  },
+  {
+    "id": 7,
+    "name": "David Brown",
+    "company": "GlobalSoft",
+    "email": "d.brown@globalsoft.com",
+    "source": "Email Campaign",
+    "score": 81,
+    "status": "new"
+  },
+  {
+    "id": 8,
+    "name": "Jennifer Taylor",
+    "company": "NextGen Systems",
+    "email": "j.taylor@nextgen.com",
+    "source": "Referral",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": 9,
+    "name": "Mark Thompson",
+    "company": "TechStart",
+    "email": "mark@techstart.com",
+    "source": "LinkedIn",
+    "score": 70,
+    "status": "contacted"
+  },
+  {
+    "id": 10,
+    "name": "Amanda White",
+    "company": "DigitalFlow",
+    "email": "amanda.white@digitalflow.com",
+    "source": "Website",
+    "score": 87,
+    "status": "new"
+  }
+]
